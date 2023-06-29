@@ -1,16 +1,13 @@
-### Hi there 👋
+### Welcome!👋 
 
-<!--
-**r0xly/r0xly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Omar, an enthusiastic programmer with a passion for creation.
 
-Here are some ideas to get you started:
+### Skills
+- Proficient in TypeScript, Lua, C#, and Python.
+- Familiar with Java, JavaScript, and C.
+- Experienced in web development using Next.js, Svelte, React, and Tailwind.
+- Skilled in game development with Unity and ROBLOX.
+- Well-versed in UI & UX design principles.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Current Project: Astro - Building Web Games Made Easy!
+I'm currently working on Astro, a powerful library designed to simplify the process of creating web games. [Check it out!](https://github.com/r0xly/Astro) 
